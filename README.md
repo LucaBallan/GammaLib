@@ -1,5 +1,4 @@
 # GammaLib
-Generic Computer Vision Library
 
 Generic Computer Vision Library supporting
  - Kinematic chains/trees
