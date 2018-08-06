@@ -15,7 +15,12 @@ Generic Computer Vision Library supporting
  - Media player for win32
  - Video input
 
+<br>
+<br>
+This library has been used for my Unstructured VBR project (http://lucaballan.altervista.org/uvbr.html) and the motion capture works (http://lucaballan.altervista.org/mhmc.html).<br>
+If you are using this library, please cite one of these papers.
 
+<br>
 <br>
 INSTALL:
 
