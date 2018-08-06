@@ -27,6 +27,5 @@ INSTALL:
   Install Levenberg-Marquardt in "Common Libs\Levenberg-Marquardt"<br>
   Install lp_solve in "Common Libs\lp_solve"<br>
   Install all the dll in bin32 and bin64<br>
-<br>
   Compile GammaLib<br>
 <br>
