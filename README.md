@@ -16,16 +16,17 @@ Generic Computer Vision Library supporting
  - Video input
 
 
-
+<br>
 INSTALL:
 
-  Install Opencv in "Common Libs\opencv_win"
-  Install newmat in "Common Libs\newmat"
-  Install gsl in "Common Libs\gsl"
-  Install glew in "Common Libs\glew"
-  Install CLAPACK in "Common Libs\CLAPACK"
-  Install Levenberg-Marquardt in "Common Libs\Levenberg-Marquardt"
-  Install lp_solve in "Common Libs\lp_solve"
-  Install all the dll in bin32 and bin64
-
-  Compile GammaLib
+  Install Opencv in "Common Libs\opencv_win"<br>
+  Install newmat in "Common Libs\newmat"<br>
+  Install gsl in "Common Libs\gsl"<br>
+  Install glew in "Common Libs\glew"<br>
+  Install CLAPACK in "Common Libs\CLAPACK"<br>
+  Install Levenberg-Marquardt in "Common Libs\Levenberg-Marquardt"<br>
+  Install lp_solve in "Common Libs\lp_solve"<br>
+  Install all the dll in bin32 and bin64<br>
+<br>
+  Compile GammaLib<br>
+<br>
