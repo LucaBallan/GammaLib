@@ -16,13 +16,16 @@ Generic Computer Vision Library supporting
  - Video input
 
 <br>
-<br>
-This library has been used for my Unstructured VBR project (http://lucaballan.altervista.org/uvbr.html) and the motion capture works (http://lucaballan.altervista.org/mhmc.html).<br>
-If you are using this library, please cite one of these papers.
+This library has been used for the Unstructured VBR paper (http://lucaballan.altervista.org/uvbr.html) and my works on markerless motion capture (http://lucaballan.altervista.org/mhmc.html).<br>
+
+**If you are using this library, please cite one of these papers.**
 
 <br>
 <br>
+<br>
+
 INSTALL:
+---
 
   Install Opencv in "Common Libs\opencv_win"<br>
   Install newmat in "Common Libs\newmat"<br>
